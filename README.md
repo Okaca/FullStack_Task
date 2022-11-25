@@ -72,8 +72,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 -----------------------------------------------------------------------------------------------------
 
-A Spring Boot REST application to support functions below. You can use any database you
-want, remember all operations must be persistent. ORM tool usage is a huge advantage.;
+A Spring Boot REST application to support functions below. MySQL database is used and 
+all data consistently can be viewed, updated, added and deleted. 
+
 a. Get all candidates
 b. Get a specific candidate with id
 c. Create a new candidate
