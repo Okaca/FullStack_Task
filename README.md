@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+-----------------------------------------------------------------------------------------------------
+
+A Spring Boot REST application to support functions below. You can use any database you
+want, remember all operations must be persistent. ORM tool usage is a huge advantage.;
+a. Get all candidates
+b. Get a specific candidate with id
+c. Create a new candidate
+d. Update the candidate (searching parameter should be id)
+e. Remove the candidate (searching parameter should be id)
+f. Change current status of the candidate
+
+Spring Boot REST will be working on localhost:5050, and React App will be running on localhost:3000
+
